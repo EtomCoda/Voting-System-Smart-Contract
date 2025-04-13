@@ -1,5 +1,5 @@
 
-```markdown
+
 #  Voting System Smart Contract
 A Proof of Concept (POC) blockchain-based voting system that provides secure, time-based voting using Solidity and Hardhat.
 
@@ -28,14 +28,16 @@ A Proof of Concept (POC) blockchain-based voting system that provides secure, ti
 - Hardhat
 - Ganache (or any local Ethereum node)
 
+
+---
+
 ### Installation
+
 ```bash
 git clone https://github.com/EtomCoda/Voting-System-Smart-Contract.git
 cd Voting-System-Smart-Contract
 npm install
 ```
-
----
 
 ### Compile the Contract
 
@@ -129,6 +131,6 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 ## 🙋‍♂️ Author
 
 Made with 💡 by [EtomCoda](https://github.com/EtomCoda)
-```
+
 
 ---
